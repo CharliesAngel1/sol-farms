@@ -63,7 +63,7 @@
 		"@chainlink/contracts": "^0.4.1",
 		"@openzeppelin/contracts": "^4.6.0",
 		"@openzeppelin/test-helpers": "^0.5.13",
-		"@poanet/solidity-flattener": "^3.0.6",
+		"@poanet/solidity-flattener": "^3.0.9",
 		"@truffle/hdwallet-provider": "^2.0.13",
 		"eth-gas-reporter": "^0.2.25",
 		"ganache-cli": "^6.12.2",
